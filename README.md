@@ -1,13 +1,15 @@
 # 🚀 Nuxt CRM System
 
 A modern **CRM system** built with [Nuxt 3](https://nuxt.com/), powered by [Appwrite](https://appwrite.io/) as the backend.  
-Inspired by tools like **Jira**, this project is designed for managing deals, tasks, and clients with a smooth and intuitive UI.  
+Inspired by tools like **Jira**, this project is designed for managing deals, tasks, and clients with a smooth and intuitive UI. 
+is a powerful project management tool built with modern web technologies to provide a seamless and efficient project tracking experience. 
+This open-source project leverages the robust capabilities of Nuxt.js Vue.js Pinia TypeScript Tailwind CSS Vue Query and Tailwind CSS to deliver a feature-rich and visually appealing Jira software clone
 
 ---
 
 ## ✨ Features
 
-- 🔐 **Authentication & OAuth** (GitHub, Google, etc.) with Appwrite
+- 🔐 **Authentication** with Appwrite
 - 📊 **Deal & Task Management** with edit, view, and filter
 - 🎨 **Modern UI** using [Nuxt UI](https://ui.nuxt.com/) + Tailwind CSS
 - ⚡ **Realtime** updates via Appwrite subscriptions
@@ -26,17 +28,6 @@ Inspired by tools like **Jira**, this project is designed for managing deals, ta
 
 ---
 
-## ⚙️ Installation
 
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/yourusername/nuxt-crm.git
-cd nuxt-crm
-npm install
-
-Run the dev server:
-
-npm run dev
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
