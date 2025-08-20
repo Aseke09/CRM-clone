@@ -1,6 +1,6 @@
 # 🚀 Nuxt CRM System
 
-A modern **CRM system** built with [Nuxt 3](https://nuxt.com/), powered by [Appwrite](https://appwrite.io/) as the backend.  
+A modern **CRM system** built with [Nuxt 4](https://nuxt.com/), powered by [Appwrite](https://appwrite.io/) as the backend.  
 Inspired by tools like **Jira**, this project is designed for managing deals, tasks, and clients with a smooth and intuitive UI. 
 is a powerful project management tool built with modern web technologies to provide a seamless and efficient project tracking experience. 
 This open-source project leverages the robust capabilities of Nuxt.js Vue.js Pinia TypeScript Tailwind CSS Vue Query and Tailwind CSS to deliver a feature-rich and visually appealing Jira software clone
